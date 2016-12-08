@@ -21,11 +21,11 @@ Uhrzeit	| Thema
 --------|:---------------------------------
 09:00 	| Vorstellung, Agenda & Organisation 
 10:00	| Vorbereitung
-*11:00 - 11:20*	| *Kaffeepause*
+*ca. 11:00 - 11:20*	| *Kaffeepause*
 11:20	| [1. Teil: ARM Templates / DevTest Lab](Templates/)
 13:00 - 14:00	| *Mittagspause*
 14:30 | [2. Teil: ARM PowerShell](PowerShell/)
-*15:00 - 15:20*	| *Kaffeepause*
+*ca. 15:00 - 15:20*	| *Kaffeepause*
 17:15	| Abschluss, Tipps & Fragen
 17:30	| Ende
 
@@ -46,7 +46,7 @@ Twitter: https://twitter.com/neumanndaniel
 
 **Peter Kirchner**  
 E-Mail: peter.kirchner@microsoft.com  
-Blog: https://blogs.msdn.microsoft.com/pkirchner/ 
+Blog: https://blogs.msdn.microsoft.com/pkirchner/  
 Twitter: http://www.twitter.com/peterkirchner
 
 ## Links
