@@ -1,0 +1,6 @@
+﻿select disk 2
+clean
+convert dynamic
+create volume simple
+format fs=NTFS Label='dcdata' QUICK
+assign letter=F
