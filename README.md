@@ -22,7 +22,7 @@ Uhrzeit	| Thema
 09:00 	| Vorstellung, Agenda & Organisation 
 10:00	| Vorbereitung
 *ca. 10:30 - 11:00*	| *Kaffeepause*
-11:00	| 1. Teil: ARM Templates / DevTest Lab
+11:00	| [1. Teil: ARM Templates](ARM/) / [DevTest Lab](ARM/DevTest-Labs/)
 12:30 - 13:30	| *Mittagspause*
 14:30 | [2. Teil: ARM PowerShell](PowerShell/)
 *ca. 15:00 - 15:30*	| *Kaffeepause*
