@@ -50,9 +50,9 @@ Blog: https://blogs.msdn.microsoft.com/pkirchner/
 Twitter: http://www.twitter.com/peterkirchner
 
 ## Tools
-[Visual Studio Code](https://code.visualstudio.com/)
-[Microsoft Azure Storage Explorer](http://storageexplorer.com/)
-[PowerShell und CLI für Azure](https://azure.microsoft.com/en-us/downloads/)
+[Visual Studio Code](https://code.visualstudio.com/)  
+[Microsoft Azure Storage Explorer](http://storageexplorer.com/)  
+[PowerShell und CLI für Azure](https://azure.microsoft.com/en-us/downloads/)  
 
 ## Links
 [Azure-Startseite](http://www.azure.com)  
