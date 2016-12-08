@@ -1,5 +1,5 @@
 #Verwendetes Azure QuickStart Template: 
-#101-vm-simple-linux
+101-vm-simple-linux:
 
 https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-linux
 
