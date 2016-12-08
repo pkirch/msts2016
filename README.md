@@ -60,6 +60,10 @@ Twitter: http://www.twitter.com/peterkirchner
 [Neue Verwaltungsseite von Microsoft Azure](http://portal.azure.com)  
 [Kontingente und Einschränkungen in Azure](http://aka.ms/azurelimits)  
 [Azure Quick Start Templates](https://github.com/Azure/azure-quickstart-templates)  
+[Azure Resource Manager Documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)  
+[Best practices for creating Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-template-best-practices)  
+[Azure Resource Manager Schema](https://github.com/Azure/azure-resource-manager-schemas)  
+[Datacenter Videos](Datacenter-Videos/)  
 
 ## Eigene Weiterarbeit mit den Materialien
 Wenn Sie mit Git bzw. GitHub vertraut sind, dann können Sie auch von diesem Repository 
