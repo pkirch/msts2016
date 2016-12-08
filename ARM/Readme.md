@@ -1,3 +1,7 @@
+#Verwendetes Azure QuickStart Template: 101-vm-simple-linux
+
+https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-linux
+
 #Azure ARM Template Deployment via CLI:  
 
 azure login  
