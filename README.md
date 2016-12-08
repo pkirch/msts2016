@@ -21,11 +21,11 @@ Uhrzeit	| Thema
 --------|:---------------------------------
 09:00 	| Vorstellung, Agenda & Organisation 
 10:00	| Vorbereitung
-*ca. 11:00 - 11:20*	| *Kaffeepause*
+*ca. 10:30 - 11:00*	| *Kaffeepause*
 11:20	| [1. Teil: ARM Templates / DevTest Lab](Templates/)
-13:00 - 14:00	| *Mittagspause*
+12:30 - 13:30	| *Mittagspause*
 14:30 | [2. Teil: ARM PowerShell](PowerShell/)
-*ca. 15:00 - 15:20*	| *Kaffeepause*
+*ca. 15:00 - 15:30*	| *Kaffeepause*
 17:15	| Abschluss, Tipps & Fragen
 17:30	| Ende
 
@@ -49,14 +49,16 @@ E-Mail: peter.kirchner@microsoft.com
 Blog: https://blogs.msdn.microsoft.com/pkirchner/  
 Twitter: http://www.twitter.com/peterkirchner
 
-## Links
+## Tools
+[Visual Studio Code](https://code.visualstudio.com/)
 [Microsoft Azure Storage Explorer](http://storageexplorer.com/)
+[PowerShell und CLI für Azure](https://azure.microsoft.com/en-us/downloads/)
 
+## Links
 [Azure-Startseite](http://www.azure.com)  
 [Alte Verwaltungsseite von Microsoft Azure](http://manage.windowsazure.com)  
 [Neue Verwaltungsseite von Microsoft Azure](http://portal.azure.com)
-
-[Visual Studio Code](https://code.visualstudio.com/)
+[Kontingente und Einschränkungen in Azure](http://aka.ms/azurelimits)
 
 ## Eigene Weiterarbeit mit den Materialien
 Wenn Sie mit Git bzw. GitHub vertraut sind, dann können Sie auch von diesem Repository 
