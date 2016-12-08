@@ -143,5 +143,3 @@ Set-AzureRmVirtualNetwork -VirtualNetwork $vnet
 
 # create SQL
 #.\02-create-vm.ps1 ...
-
-# TODO: create script to summerize results by listing all relevant ressources created
