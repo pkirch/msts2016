@@ -10,3 +10,5 @@ Setup.ps1 startet den Setup-Wizard für das DevTest Lab Deployment. Die folgende
 -DevTestLab.ps1  
 -DevTestLabVM.json  
 -DevTestLabVM.parameters.json  
+
+Wenn das Azure DevTest Lab über das Portal bereitgestellt wurde, kann mittels der folgenden Datei DevTestLabConfig.ps1 das Lab weiter konfiguriert werden.
