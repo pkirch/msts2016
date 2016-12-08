@@ -1,4 +1,4 @@
- Login-AzureRmAccount
+Login-AzureRmAccount
 
 New-AzureRmResourceGroup -Name ts16cli -Location northeurope -Verbose
 
