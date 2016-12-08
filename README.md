@@ -59,6 +59,7 @@ Twitter: http://www.twitter.com/peterkirchner
 [Alte Verwaltungsseite von Microsoft Azure](http://manage.windowsazure.com)  
 [Neue Verwaltungsseite von Microsoft Azure](http://portal.azure.com)
 [Kontingente und Einschränkungen in Azure](http://aka.ms/azurelimits)
+[Azure Quick Start Templates](https://github.com/Azure/azure-quickstart-templates)
 
 ## Eigene Weiterarbeit mit den Materialien
 Wenn Sie mit Git bzw. GitHub vertraut sind, dann können Sie auch von diesem Repository 
