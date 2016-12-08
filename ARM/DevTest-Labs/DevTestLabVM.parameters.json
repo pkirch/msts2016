@@ -1,0 +1,39 @@
+{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "newVMName": {
+      "value": "TS16Lab-VM"
+    },
+    "existingLabName": {
+      "value": "TS16Lab"
+    },
+    "newVMSize": {
+      "value": "Standard_A1_v2"
+    },
+    "userName": {
+      "value": ""
+    },
+    "password": {
+      "value": ""
+    },
+    "offer": {
+      "value": "WindowsServer"
+    },
+    "publisher": {
+      "value": "MicrosoftWindowsServer"
+    },
+    "sku": {
+      "value": "2012-R2-Datacenter"
+    },
+    "osType": {
+      "value": "Windows"
+    },
+    "version": {
+      "value": "latest"
+    },
+    "expirationDate": {
+      "value": "2016-12-09T12:00:00+00:00"
+    }
+  }
+}
